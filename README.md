@@ -1,16 +1,18 @@
 ## Welcome to GitHub Pages
 Owned by Juanna Latumbo
 
-You can use the [editor on GitHub](https://github.com/1nnaaL/1nnaaL.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Leisure Apps
 
-### Markdown
+*You can use these apps whenever you have free time or if you're bored. These apps are really interesting*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+**TIKTOK**
+
+![tiktok](https://cliply.co/wp-content/uploads/2021/02/372102690_TIKTOK_LOGO_1080.png)
+
+TikTok is a social media platform for creating, sharing and discovering short videos. The app is used by young people as an outlet to express themselves through singing, dancing, comedy, and lip-syncing, and allows users to create videos and share them across a community. You can also watch educational vidoes here, like new english words, deep filipino words, about health, and other useful ideas you want to know. These people who creates videos or contents are called *content creators*.
 
 # Header 1
 ## Header 2
